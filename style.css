@@ -1,0 +1,15 @@
+.globalWrapper {
+	margin: auto;
+	width: 50%;
+	height: 50%;
+	text-align: center;
+	margin-top: 20%;
+}
+
+#codeButton {
+	margin: 4%;
+}
+
+.rond {
+	margin-bottom: 1%;
+}
