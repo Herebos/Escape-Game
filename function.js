@@ -1,3 +1,10 @@
+document.getElementById("code").addEventListener("keypress", function(event) {
+  //event.preventDefault();
+  if (event.keyCode === 13) {
+    document.getElementById("codeButton").click();
+  }
+});
+
 function triangleGo() {
 	var inputVal = document.getElementById("code").value;
 	
