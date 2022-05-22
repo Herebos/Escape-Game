@@ -10,6 +10,11 @@
 	margin: 1%;
 }
 
-.rond {
+.rond, .square{
 	margin-bottom: 1%;
+}
+
+.blanc {
+	color: white;
+	position: fixed;
 }
