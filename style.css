@@ -8,6 +8,8 @@
 
 #codeButton {
 	margin: 1%;
+	border-radius: 10px;
+	
 }
 
 .rond, .square{
@@ -17,4 +19,9 @@
 .blanc {
 	color: white;
 	position: fixed;
+}
+
+input {
+	width: 25%;
+	border-radius: 10px;
 }
